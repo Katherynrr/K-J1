@@ -1,4 +1,4 @@
-En resumen, git fetch es un comando principal que se usa para descargar 
+En resumen, git fetch es un comando principal que se usa para bajar 
 contenidos desde un repositorio remoto. git fetch se usa en combinación 
 con git remote , git branch , git checkout y git reset para actualizar 
 un repositorio local al estado de un remoto.
@@ -6,9 +6,7 @@ git remote -v   ver hacia donde apunta origin y ver si hay creado o no un remoto
 
 git remote add upstream url del original
 agrgar el remoto o enlazar el repo local al repo original
-L.johana Alvarez21:46
-code
-y da enter
+code y da enter
 
 
 holiiiii
